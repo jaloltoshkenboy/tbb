@@ -131,6 +131,7 @@ body {
     backdrop-filter: blur(15px);
     border-radius: 20px;
     padding: 27px 0;
+    background: red;
 }
 
 
